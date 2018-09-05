@@ -1,3 +1,6 @@
+This is an abandoned project from Christi Richards, we would like to start working on this as one of our projects and bring it back to life. If you can contribute anything we would gladly appreciate it. 
+
+
 # Gravity Forms Zendesk Add-On
 
 Gravity Forms Zendesk Add-On integrates Gravity Forms with Zendesk allowing form submissions to be automatically sent as a new ticket to your Zendesk account.  It utilizes the [Zendesk v2 API](https://developer.zendesk.com/rest_api/docs/core/introduction), [GFFeedAddOn](http://www.gravityhelp.com/documentation/gravity-forms/extending-gravity-forms/add-on-framework/gffeedaddon/), PHP, and cURL.
